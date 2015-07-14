@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include karizma *.css
+recursive-include karizma *.csv
+recursive-include karizma *.html
+recursive-include karizma *.ico
+recursive-include karizma *.js
+recursive-include karizma *.json
+recursive-include karizma *.md
+recursive-include karizma *.png
+recursive-include karizma *.py
+recursive-include karizma *.svg
+recursive-include karizma *.txt
+recursive-exclude karizma *.pyc
