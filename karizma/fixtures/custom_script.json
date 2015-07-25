@@ -1,0 +1,11 @@
+[
+ {
+  "docstatus": 0, 
+  "doctype": "Custom Script", 
+  "dt": "Samples Issue", 
+  "modified": "2015-07-14 20:47:18.753458", 
+  "name": "Samples Issue-Client", 
+  "script": "cur_frm.add_fetch('item_code', 'item_name', 'item_name')\ncur_frm.add_fetch('item_code', 'description', 'description')\ncur_frm.add_fetch('item_code', 'brand', 'brand')\n", 
+  "script_type": "Client"
+ }
+]
